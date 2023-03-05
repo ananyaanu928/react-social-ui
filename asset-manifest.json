@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ananyaanu928/react-social-ui.git/static/css/main.6823c98f.css",
+    "main.js": "/ananyaanu928/react-social-ui.git/static/js/main.db8b617f.js",
+    "index.html": "/ananyaanu928/react-social-ui.git/index.html",
+    "main.6823c98f.css.map": "/ananyaanu928/react-social-ui.git/static/css/main.6823c98f.css.map",
+    "main.db8b617f.js.map": "/ananyaanu928/react-social-ui.git/static/js/main.db8b617f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6823c98f.css",
+    "static/js/main.db8b617f.js"
+  ]
+}
